@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="newUpdateAvailable">Actualizacion Disponible</string>
+    <string name="newUpdateAvailable">Actualización Disponible</string>
     <string name="dialogPositiveButton">Actualizar</string>
-    <string name="dialogNegativeButton">Posponer</string>
-    <string name="app_no_new_update">La aplicacion ya esta actualizada</string>
+    <string name="dialogNegativeButton">Quizás luego</string>
+    <string name="app_no_new_update">La aplicacion ya está actualizada</string>
     <string name="download_progress">descargando:%1$d%%</string>
-    <string name="download_success">la descarga se realizo con exito. Haga click en instalar para finalizar</string>
+    <string name="download_success">la descarga se realizó con éxito. Haga click en instalar para finalizar</string>
 </resources>
