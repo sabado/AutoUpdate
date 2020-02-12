@@ -276,7 +276,7 @@ public class UpdateChecker extends Fragment {
             if (mTypeOfNotice == NOTICE_CUSTOM && mNotice != null) {
                 mNotice.showCustomNotice(description);
             } else if (description.versionCode > versionCode) {
-                description.updateMessage += String.format(" [%d --> %d]", versionCode, description.versionCode);
+                //description.updateMessage += String.format(" [%d --> %d]", versionCode, description.versionCode);
 
                 if (mTypeOfNotice == NOTICE_NOTIFICATION ||
                         (mTypeOfNotice == NOTICE_CUSTOM && mNotice == null)) {
